@@ -152,7 +152,7 @@ function selectChoice(choice) {
     setTimeout(() => {
         currentQuestionIndex++;
         displayNextQuestion();
-    }, 200);
+    }, 175);
 }
 
 function updateProgressBar() {
